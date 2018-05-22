@@ -21,6 +21,7 @@
     "dotenv": "^5.0.1",
     "fs": "0.0.1-security",
     "inquirer": "^5.2.0",
+    "inquirer-recursive": "0.0.5",
     "node-spotify-api": "^1.0.7",
     "request": "^2.86.0",
     "twitter": "^1.7.1"
